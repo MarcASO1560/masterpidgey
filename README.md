@@ -1,7 +1,7 @@
 # masterpidgey
 ## Enunciado ejercicios básicos de Git, GitHub (Parte 1)
 - Crear un repositorio en vuestro GitHub llamado **masterpidgey**.
-![Crear Repo](/images/CapturaCrearRepo.txt)
+![Crear Repo](images/CapturaCrearRepo.txt)
 - Clonar vuestro repositio en local.
 ## Commit inicial
 
